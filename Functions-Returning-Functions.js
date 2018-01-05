@@ -41,7 +41,7 @@ var nurseryRhymer = whoDoesWhat("Sally");
 
 /*>*/alert( nurseryRhymer("Sells") );
 /*>*/alert( nurseryRhymer("Smells") );
-/*>*/globalScopeVariable = "Seels"
+/*>*/globalScopeVariable = "Seals"
 /*>*/alert( nurseryRhymer("Sees") );
 
 
